@@ -1,0 +1,39 @@
+# Java and Maven
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.mtj.tmp/
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# Node and React
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+*.local
+.npm/
+
+# Environment and Secrets
+.env
+.env.production
+*.pem
+*.key
+
+# Resumes and uploads
+uploads/
+backend/uploads/
+**/uploads/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
